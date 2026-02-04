@@ -10,7 +10,7 @@ const Footer = () => {
           <span className="text-green-500">OP/&gt;</span>
         </div>
         <div className='flex justify-center items-center'>
-           Created with love by Harshit,Kunal&Lakshya
+           Created with love by Harshit!
         </div>
  
     </div>
